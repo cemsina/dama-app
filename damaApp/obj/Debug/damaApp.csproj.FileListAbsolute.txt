@@ -1,0 +1,10 @@
+c:\users\cemsina\documents\visual studio 2015\Projects\damaApp\damaApp\bin\Debug\damaApp.exe.config
+c:\users\cemsina\documents\visual studio 2015\Projects\damaApp\damaApp\obj\Debug\damaApp.Form1.resources
+c:\users\cemsina\documents\visual studio 2015\Projects\damaApp\damaApp\obj\Debug\damaApp.Properties.Resources.resources
+c:\users\cemsina\documents\visual studio 2015\Projects\damaApp\damaApp\obj\Debug\damaApp.csproj.GenerateResource.Cache
+c:\Users\cemsina\Documents\Visual Studio 2015\Projects\damaApp\damaApp\bin\Debug\damaApp.exe
+c:\Users\cemsina\Documents\Visual Studio 2015\Projects\damaApp\damaApp\bin\Debug\damaApp.pdb
+c:\Users\cemsina\Documents\Visual Studio 2015\Projects\damaApp\damaApp\obj\Debug\damaApp.exe
+c:\Users\cemsina\Documents\Visual Studio 2015\Projects\damaApp\damaApp\obj\Debug\damaApp.pdb
+C:\Users\cemsina\Documents\Visual Studio 2015\Projects\damaApp\damaApp\obj\Debug\damaApp.csprojResolveAssemblyReference.cache
+C:\Users\cemsina\Documents\Visual Studio 2015\Projects\damaApp\damaApp\obj\Debug\damaApp.settings.resources
